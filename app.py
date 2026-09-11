@@ -9,7 +9,7 @@ from openpyxl.styles import Border, Font, Side
 
 st.set_page_config(page_title="Diary -> Quotation", page_icon=":camera:", layout="centered",
                    initial_sidebar_state="collapsed")
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.6-flash"
 TITLE = "(MODULAR) FURNITURE (CENTURY CLUB PRIME WITH LAMINATE)"
 DEFAULT_FREIGHT = 1800
 OUTPUT_DIR = Path("quotations")
