@@ -1,7 +1,11 @@
 .streamlit/
+.streamlit/secrets.toml
 .history/
 __pycache__/
+*.pyc
 *.py[cod]
 .env
 .venv/
 venv/
+quotations/
+.DS_Store
